@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/home/upi05/Downloads/core-contracts/voting/target/debug/build/typenum-4701b5f9d4ecffb9/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/home/upi05/Downloads/core-contracts/voting/target/debug/build/typenum-4701b5f9d4ecffb9/out/op.rs
